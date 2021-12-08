@@ -1,5 +1,9 @@
 ### OLá 👋! Eu sou a Nathane Almeida, seja bem-vindo ao meu perfil!
 
+<div align="center">
+  <a href="https://github.com/nathane-S">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathane-S&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **nathane-S/nathane-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
